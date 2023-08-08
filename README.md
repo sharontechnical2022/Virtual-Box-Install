@@ -6,6 +6,17 @@
 VirtualBox is a general-purpose full virtualizer for x86 hardware, targeted at server, desktop and embedded use. Here you will find screenshots walking through the installation of this virtualizer on Windows Home. It will host Redhat Linux as well as Ubuntu.
 <br />
 
+
+<h2>Enable Virtualization on your PC/laptop:</h2>
+
+<p align="center">
+<b>Ctrl+Shift+ESC:</b> <br/>
+<img src = "https://github.com/joshmadakor1/joshmadakor1/assets/141186669/c64e9e95-2331-4d8e-b905-ff7b45c6666e"/>
+<br />
+<br />
+<br />
+<br />
+ 
 <h2>Go to VirtualBox.org</h2>
 
 <p align="center">
@@ -62,19 +73,6 @@ VirtualBox is a general-purpose full virtualizer for x86 hardware, targeted at s
 <br />
 
 
-<p align="center">
-<b>Choose your settings:</b> <br/>
-<img src ="https://github.com/sharontechnical2022/Virtual-Box-Install/assets/141186669/d53c0671-8fd3-4f46-b678-80588b53f048"/>
-<br />
-<br />
-<br />
-<br />
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
+
 ```
 --!>
