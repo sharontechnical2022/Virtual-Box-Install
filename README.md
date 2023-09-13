@@ -1,10 +1,17 @@
-<h1>Virtual-Box-Install</h1>
+<h1>VirtualBox-Install</h1>
 
 
 
 <h2>Description</h2>
-VirtualBox is a general-purpose full virtualizer for x86 hardware, targeted at server, desktop and embedded use. Here you will find screenshots walking through the installation of this virtualizer on Windows Home. It will host Redhat Linux as well as Ubuntu.
+VirtualBox is a general-purpose full virtualizer for x86 hardware, targeted at server, desktop and embedded use. This a demonstration of the Virtual Box installation on my system. It will host Redhat Linux as well as Ubuntu.
 <br />
+
+<h2>Environments Used</h2>
+
+
+- Windows 11 Home (v10.0.22621, Build 2261)
+
+- Oracle VM VirtualBox 7.0
 
 
 <h2>Enable Virtualization on your PC/laptop:</h2>
